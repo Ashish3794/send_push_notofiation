@@ -144,7 +144,7 @@ google-crc32c==1.7.1
     # via aiortc
 gradio==6.9.0
     # via agents (pyproject.toml)
-gradio-client==1.10.3
+# gradio-client==1.10.3
     # via gradio
 greenlet==3.2.3
     # via playwright
